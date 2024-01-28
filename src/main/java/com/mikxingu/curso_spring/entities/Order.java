@@ -30,7 +30,7 @@ public class Order implements Serializable {
 	
 	private Integer orderStatus;
 
-	@ManyToOne()
+	@ManyToOne
 	@JoinColumn(name = "client_id")
 	private User client;
 

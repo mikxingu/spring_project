@@ -20,3 +20,5 @@ Available endpoints are shown below. You can find a Postman collection in the ro
 
 * Get all Categories.
 ![5](https://github.com/mikxingu/spring_project/assets/30123586/9c6a67ad-ff7f-4df2-b2d8-c4e0d394fde7)
+
+--
